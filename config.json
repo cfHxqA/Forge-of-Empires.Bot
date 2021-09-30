@@ -1,0 +1,10 @@
+{
+  "application" : {
+    "identifier" : "Forge-of-Empires",
+    "license" : ""
+  },
+  "environment" : {
+    "build" : "stable",
+    "is_debug_enabled" : false
+  }
+}

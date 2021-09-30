@@ -1,0 +1,118 @@
+[
+  {
+    "md5": "8d992d518b861002b8a3f9e93f3cb582",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/BeetleX.dll"
+  },
+  {
+    "md5": "9e5cb3062012f4f3a52b4b2e8dd0e00c",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/BouncyCastle.Crypto.dll"
+  },
+  {
+    "md5": "ac3be7cdf53dc2a81fef712d7fefd7e9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Konscious.Security.Cryptography.Argon2.dll"
+  },
+  {
+    "md5": "cd65c2782499accff92be41d2e152399",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Konscious.Security.Cryptography.Blake2.dll"
+  },
+  {
+    "md5": "9f3c7deed751a09664338ad88e0cfafd",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.Extensions.Configuration.Abstractions.dll"
+  },
+  {
+    "md5": "d28a90d752ab732e1617c1c0ad0f4266",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.Extensions.Configuration.dll"
+  },
+  {
+    "md5": "e1afa696fc9a7fce9d1543034bd2f15f",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.Extensions.Logging.Abstractions.dll"
+  },
+  {
+    "md5": "68bedc3bb92b470db9eb44ac00244119",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.Extensions.Primitives.dll"
+  },
+  {
+    "md5": "1bfc85f6e5397284a999023a81ab111e",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.IO.RecyclableMemoryStream.dll"
+  },
+  {
+    "md5": "03d3040294ba1d7ec3202bcdabd1c8d1",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.Win32.SystemEvents.dll"
+  },
+  {
+    "md5": "916d32b899f1bc23b209648d007b99fd",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Newtonsoft.Json.dll"
+  },
+  {
+    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Noemax.Compression.dll"
+  },
+  {
+    "md5": "7091693294777e9dbad837cf7f3cf89f",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.dll"
+  },
+  {
+    "md5": "64294c0e5b0a08f4f761532893287565",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.Patterns.Aggregation.dll"
+  },
+  {
+    "md5": "4d2a3f5d0a940078dc3df12f45f4a664",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.Patterns.Caching.dll"
+  },
+  {
+    "md5": "ab33fc3e1936bc6bcb0ef08b70c41a54",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.Patterns.Common.dll"
+  },
+  {
+    "md5": "7d6f3dbc390dba4bdfad8d637f60b6ee",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.Patterns.Model.dll"
+  },
+  {
+    "md5": "3a15abc0adbed18884f9d6d4fbed5d6d",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.Patterns.Threading.dll"
+  },
+  {
+    "md5": "43c1ed4d9aabd6855dda3aecb8c6bb19",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/RestSharp.dll"
+  },
+  {
+    "md5": "2ec0543de71dff1bcac6cee3c14a6da4",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Configuration.ConfigurationManager.dll"
+  },
+  {
+    "md5": "5c1f77a3243cac806557e23d84111f77",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Drawing.Common.dll"
+  },
+  {
+    "md5": "85dfb37bd0c7cec80e4174fda18f3002",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Linq.Async.dll"
+  },
+  {
+    "md5": "7237c760e089f1ecbb72e8201ed93248",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Runtime.Caching.dll"
+  },
+  {
+    "md5": "5e827a4fbd40b53b854a1f654ba155c5",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Security.Cryptography.ProtectedData.dll"
+  },
+  {
+    "md5": "6dc3add8c9b3b3bce9d1a62269274806",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Security.Permissions.dll"
+  },
+  {
+    "md5": "8d936c30787246bf5342096b6c63c08e",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Windows.Extensions.dll"
+  },
+  {
+    "md5": "43c9ef0d839ecbad2bcc4ef4206665fd",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/VIEApps.Components.Utility.dll"
+  },
+  {
+    "md5": "c5bc56d7cf3267fd3b6871cb15444549",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/VIEApps.Components.WebSockets.dll"
+  },
+  {
+    "md5": "d0010fe175efbb0a6e1a6a12a37210fe",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/XC.RSAUtil.dll"
+  }
+]
