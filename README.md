@@ -20,10 +20,6 @@ A little helper to simplify production and collection, as well as much more ... 
 
 * Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
-### How can I join? (Discord)
-
-Follow this **[link](https://discord.gg/dK4tQDG)** - the bot is NOT for free. You get technical support, regular updates & a nice community as long as your license is active!
-
 ### How to use it? (Windows)
 
 Unpack the downloaded archive **[FoE-Bot.zip](https://github.com/cfHxqA/Forge-of-Empires.Bot/raw/master/FoE-Bot.zip)**. If this is all done, start the application and set your settings!
