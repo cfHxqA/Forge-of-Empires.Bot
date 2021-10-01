@@ -14,6 +14,9 @@ A little helper to simplify production and collection, as well as much more ... 
 > Can production supplies be collected and new ones started?<br>
 > „_<ins>Of course!</ins> - it doesn't matter here! You can determine the choice of producing supplies._“
 
+> Can goods be collected and new ones started?<br>
+> „_<ins>Of course!</ins> - it doesn't matter here! You can determine the choice of goods._“
+
 ### Requirements (Windows-/MacOS-/Linux)
 
 - [.NET 5.0 Runtime or higher](https://dotnet.microsoft.com/download)*
