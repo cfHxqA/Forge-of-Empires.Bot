@@ -1,3 +1,4 @@
+
 # Preview
 
 <p align="center">
@@ -8,14 +9,11 @@
 
 A little helper to simplify production and collection, as well as much more ... for you! :smiley:
 
-> Is it possible to collect coins from any type of building?<br>
-> <ins>Sure - why not?</ins>! „_It doesn't matter here. Everything is regulated "internally"._“
-
-> Can production supplies be collected and new ones started?<br>
-> „_<ins>Of course!</ins> - it doesn't matter here! You can determine the choice of producing supplies._“
-
-> Can goods be collected and new ones started?<br>
-> „_<ins>Of course!</ins> - it doesn't matter here! You can determine the choice of goods._“
+### Features
+* Collecting of Goods / Money / Random / Supplies
+* Collecting of Hidden Rewards
+* Create Supplies (_or specific based on building name_)
+* Polivate buildings (_Friends-_, _Clan members-_, _Neighborhood_)
 
 ### Requirements (Windows-/MacOS-/Linux)
 
