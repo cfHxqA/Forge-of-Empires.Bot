@@ -5,14 +5,14 @@
   <img src="https://i.imgur.com/i3ZynIz.jpeg" />
 </p>
 
-# Forge-of-Empires.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/3.0.0.0/) [![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NDcUSYp)
+# Forge-of-Empires.Bot ![status](https://badgen.net/badge/Status/Proof/green) ![version](https://badgen.net/badge/Version/3.0.3.0/) [![Discord](https://img.shields.io/discord/365129052832530433.svg?label=BotNix&logo=discord&logoColor=ffffff&color=7389D8&labelColor=6A7EC2)](https://discord.gg/NDcUSYp)
 
 A little helper to simplify production and collection, as well as much more ... for you! :smiley:
 
 ### Features
 * Collecting of Goods / Money / Random / Supplies
 * Collecting of Hidden Rewards
-* Create Supplies (_or specific based on building name_)
+* Create Default Goods / Supplies (_or specific based on building name_)
 * Polivate buildings (_Friends-_, _Clan members-_, _Neighborhood_)
 
 ### Requirements (Windows-/MacOS-/Linux)
