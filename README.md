@@ -13,6 +13,7 @@ A little helper to simplify production and collection, as well as much more ... 
 * Collecting of Goods / Money / Random / Supplies
 * Collecting of Hidden Rewards
 * Create Default Goods / Supplies (_or specific based on building name_)
+* Guild Battleground (_with specific units based on unit name name)
 * Polivate buildings (_Friends-_, _Clan members-_, _Neighborhood_)
 
 ### Requirements (Windows-/MacOS-/Linux)
