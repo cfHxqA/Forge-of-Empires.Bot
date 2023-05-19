@@ -10,7 +10,7 @@
 A little helper to simplify production and collection, as well as much more ... for you! :smiley:
 
 ### Features
-* Collecting Culture Outpost / Create default goods
+* Collecting Culture Outpost / Create default goods (or specific based on building name)
 * Collecting of goods / money / random / supplies
 * Collecting of hidden rewards
 * Create default goods / supplies (_or specific based on building name_)
