@@ -10,10 +10,10 @@
 A little helper to simplify production and collection, as well as much more ... for you! :smiley:
 
 ### Features
-* Collecting of Goods / Money / Random / Supplies
-* Collecting of Hidden Rewards
-* Create Default Goods / Supplies (_or specific based on building name_)
-* Guild Battleground (_with specific units based on unit name name_)
+* Collecting Culture Outpost / Create default goods
+* Collecting of goods / money / random / supplies
+* Collecting of hidden rewards
+* Create default goods / supplies (_or specific based on building name_)
 * Polivate buildings (_Friends-_, _Clan members-_, _Neighborhood_)
 
 ### Requirements (Windows-/MacOS-/Linux)
