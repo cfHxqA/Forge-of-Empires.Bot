@@ -10,6 +10,7 @@
 A little helper to simplify production and collection, as well as much more ... for you! :smiley:
 
 ### Features
+* Auto-Snipe (Friends-, Clan members-, Neighborhood)
 * Collecting Culture Outpost / Create default goods (or specific based on building name)
 * Collecting of goods / money / random / supplies
 * Collecting of hidden rewards
