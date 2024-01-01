@@ -19,7 +19,7 @@ A little helper to simplify production and collection, as well as much more ... 
 
 ### Requirements (Windows-/MacOS-/Linux)
 
-- [.NET 7.0 SDK or higher](https://dotnet.microsoft.com/download)*
+- [.NET 8.0 SDK or higher](https://dotnet.microsoft.com/download)*
 
 * Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
