@@ -1,5 +1,17 @@
 [
   {
+    "md5": "3364e549ff1c5cc2b0feedb507657d84",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/BeetleX.dll"
+  },
+  {
+    "md5": "543a33bc914472af3b7a0e00456c26c5",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/DidiSoft.BouncyCastle.dll"
+  },
+  {
+    "md5": "601b1b6ffaa0f36e3c6e3c164da95957",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/DidiSoft.Pgp.dll"
+  },
+  {
     "md5": "e6698497954b7b351bbc5df767978c14",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Konscious.Security.Cryptography.Argon2.dll"
   },
@@ -52,6 +64,10 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Newtonsoft.Json.dll"
   },
   {
+    "md5": "2da4adb065f10d2fa4c73fb6639d9ff9",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Noemax.Compression.dll"
+  },
+  {
     "md5": "38a25d3dbca387a747b0e071acf042b6",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/PostSharp.dll"
   },
@@ -88,7 +104,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Diagnostics.EventLog.dll"
   },
   {
-    "md5": "4a20e0a2088fb4f5b7f355ac8d974e74",
+    "md5": "94a2181a9593e1204dc87290d7b56922",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Drawing.Common.dll"
   },
   {
@@ -110,6 +126,10 @@
   {
     "md5": "10f16aaf5badf16facae2301e8899d92",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.Security.Permissions.dll"
+  },
+  {
+    "md5": "6bf4b8d9dd61f13b30bd6eda60917f6e",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/System.ServiceModel.dll"
   },
   {
     "md5": "88e3e9dc9b592fd225c6cf6592188b43",
