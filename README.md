@@ -17,9 +17,9 @@ A little helper to simplify production and collection, as well as much more ... 
 * Create default goods / supplies (_or specific based on building name_)
 * Polivate buildings (_Friends-_, _Clan members-_, _Neighborhood_)
 
-### Requirements (Windows-/MacOS-/Linux)
+### Requirements (Win8+/MacOS/Linux/ARM)
 
-- [.NET 8.0 SDK or higher](https://dotnet.microsoft.com/download)*
+- [.NET 9.0 SDK or higher](https://dotnet.microsoft.com/download)*
 
 * Be sure to install the **32- and 64-bit version on windows**! Both are absolutely necessary!
 
