@@ -52,7 +52,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Konscious.Security.Cryptography.Argon2.dll"
   },
   {
-    "md5": "3cf89497c170406889705f056054656b",
+    "md5": "64994ea247cffce2e9ff6d6968ab354c",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/VIEApps.Components.WebSockets.dll"
   },
   {
@@ -92,7 +92,7 @@
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/BeetleX.dll"
   },
   {
-    "md5": "706999014538fc99ce4f98eaca2c1ae6",
+    "md5": "bcf6b15380698e7445b66999f8f7b976",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/VIEApps.Components.Utility.dll"
   },
   {
@@ -130,6 +130,10 @@
   {
     "md5": "38236f9c2408bda46c13efef364326fe",
     "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/Microsoft.Extensions.DependencyInjection.Abstractions.dll"
+  },
+  {
+    "md5": "6722e1b9f8755c2b8054f41701a865b5",
+    "url": "https://raw.githubusercontent.com/cfHxqA/Forge-of-Empires.Bot/master/Dependencies/ZstdSharp.dll"
   },
   {
     "md5": "c0db217bb7145ea0bc65960383223b5a",
